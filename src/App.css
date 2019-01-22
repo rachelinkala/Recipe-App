@@ -43,6 +43,10 @@ button:focus {
   margin-left: 0.7rem;
 }
 
+.recipe_buttons:hover {
+  cursor: pointer;
+}
+
 .recipes__box {
   background: #fff;
   padding-bottom: 2rem;
@@ -97,6 +101,10 @@ button:focus {
   text-transform: uppercase;
   font-weight: 500;
   margin-left: 0.7rem;
+}
+
+.form__button:hover {
+  cursor: pointer;
 }
 
 input[type="text"] { 
